@@ -17,7 +17,6 @@ By serving a trained classification model through an interactive **Flask web app
 * **Smart Data Processing:** Automated cleaning pipeline for missing value imputation, outlier detection, and categorical encoding.
 * **Multi-Model Evaluation:** Comparative analysis across **Decision Trees**, **Random Forests**, and **Logistic Regression**.
 * **Comprehensive Metrics:** Benchmarking using Accuracy, Precision, Recall, F1-Score, and Confusion Matrices.
-* **Interactive Web Interface:** Lightweight Flask UI allowing instant, user-friendly risk assessment inputs.
 * **Production-Ready & Compliant:** Architected for scalability, model explainability, and healthcare compliance considerations.
 
 ---
