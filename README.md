@@ -8,8 +8,6 @@
 
 Mental health challenges affect millions worldwide, yet early detection remains a critical hurdle. This project addresses the gap by providing an intelligent machine learning classification system designed to analyze survey responses and detect early risk markers for conditions like **depression, anxiety, and stress**.
 
-By serving a trained classification model through an interactive **Flask web application**, users can receive real-time risk assessments to encourage timely, proactive support.
-
 ---
 
 ## ✨ Key Features
@@ -25,7 +23,6 @@ By serving a trained classification model through an interactive **Flask web app
 
 * **Backend & ML:** Python 3.x, scikit-learn, Pandas, NumPy, Pickle
 * **Data Visualization:** Seaborn, Matplotlib, Jupyter Notebook
-* **Frontend:** Flask, HTML, CSS
 * **Dataset:** OSMI Mental Health in Tech Survey (Kaggle)
 
 ---
